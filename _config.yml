@@ -1,4 +1,6 @@
 title: Michele Iarossi
 description: Embedded software engineer
 logo: /assets/img/IMG_2391.jpg
-theme: jekyll-theme-minimalist
+plugins:
+  - jekyll-remote-theme
+remote_theme: BDHU/minimalist
