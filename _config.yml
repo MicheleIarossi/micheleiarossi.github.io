@@ -1,6 +1,10 @@
 title: Michele Iarossi
-description: Embedded software engineer
 logo: /assets/img/IMG_2391.jpg
+email: michele@mathsophy.com
+blank_title: true
+favicon: true
+description: ""
+show_downloads: false
 plugins:
   - jekyll-remote-theme
 remote_theme: BDHU/minimalist
