@@ -1,7 +1,7 @@
 My name is Michele Iarossi and I'm a seasoned software engineer with 15+ years of experience in the automotive sector, focusing on embedded software development and integration. My expertise includes [AUTOSAR](https://www.autosar.org/), diagnostic protocols (e.g. [UDS](https://www.iso.org/standard/72439.html)) and embedded programming. I thrive on leading, mentoring and working with multicultural teams in complex and challenging projects. I have strong communication skills in German, English, French and Italian.
 
 I hold a master's degree in Electronic Engineering (_Laurea cum Laude_) from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home).
-You can download my CV [here](https://github.com/MicheleIarossi/CV/blob/main/cv.pdf). [Contact me](mailto:micheleiarossi@gmail.com) directly if you need a full application package.
+You can download my CV [here](https://github.com/MicheleIarossi/CV/blob/main/cv.pdf).
 
 Visit my [blog](https://www.mathsophy.com/blog) at [MathSophy](https://www.mathsophy.com/) to find out what I've been working on recently.
 
