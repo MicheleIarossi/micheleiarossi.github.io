@@ -15,4 +15,4 @@ My all-time favourite textbook: Constantine A. Balanis, _Advanced Engineering El
 
 I loved so much Balanis' style of boxing equations and formulas for highlighting important results, that I did the same in my master thesis!
 
-Best teacher I ever had: [Prof. Ing. Vinicio Boffi](https://ne.oregonstate.edu/ICTT/talks/ICTT-22_talks/Thursday_Morning_1/boffi-memoriam-ictt-2011.pdf), _Metodi matematici per l'Ingegneria (Advanced Engineering Mathematics)_
+Best professor I ever had: [Prof. Ing. Vinicio Boffi](https://ne.oregonstate.edu/ICTT/talks/ICTT-22_talks/Thursday_Morning_1/boffi-memoriam-ictt-2011.pdf), _Metodi matematici per l'Ingegneria (Advanced Engineering Mathematics)_
